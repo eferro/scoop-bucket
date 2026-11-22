@@ -1,19 +1,19 @@
 {
-    "version": "0.7.2",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eferro/uncertain-bc/releases/download/v0.7.2/ubc_0.7.2_windows_amd64.zip",
+            "url": "https://github.com/eferro/uncertain-bc/releases/download/v1.0.0/ubc_1.0.0_windows_amd64.zip",
             "bin": [
                 "ubc.exe"
             ],
-            "hash": "10509b1603ac5f5da241a31ba21f560861420f7a2ab9c66a35ce15f9bb84adc9"
+            "hash": "3fc1bd2b9a49bf1bae18e83c95014d7baa9f004e0a767d7c9f817012d593c946"
         },
         "arm64": {
-            "url": "https://github.com/eferro/uncertain-bc/releases/download/v0.7.2/ubc_0.7.2_windows_arm64.zip",
+            "url": "https://github.com/eferro/uncertain-bc/releases/download/v1.0.0/ubc_1.0.0_windows_arm64.zip",
             "bin": [
                 "ubc.exe"
             ],
-            "hash": "a7754e60e3a92c1e8a89ded2ccc7aa1de2f5d5a2baea27515e2555e740b493ae"
+            "hash": "fe56a5ede299945492fca4c6a50d48672cdd58f1e6af8baee08bf315277b7e7e"
         }
     },
     "homepage": "https://github.com/eferro/uncertain-bc",
